@@ -11,3 +11,5 @@
 *休息是為了走更長遠的路*
 
 [TFT](https://tactics.tools/tc)
+
+![TFT](nkust.png "NKUST")
