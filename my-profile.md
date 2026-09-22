@@ -13,3 +13,13 @@
 [TFT](https://tactics.tools/tc)
 
 ![TFT](images.jpg "TFT")
+
+>愛迪生
+>>天才是1%的天分加上99%的努力
+
+ | 工作|教學 |
+| :--- | :---: |
+| 餐飲 | 系統| 
+ ```
+print("Hello!")
+ ```
