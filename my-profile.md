@@ -12,4 +12,4 @@
 
 [TFT](https://tactics.tools/tc)
 
-![TFT](nkust.png "NKUST")
+![TFT](images.jpg "TFT")
